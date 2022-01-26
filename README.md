@@ -1,5 +1,7 @@
 # Mountain
 
+![logo](logo/Mountain.png)
+
 This is a color palette inspired by the famous Nord one
 
 # Colors
