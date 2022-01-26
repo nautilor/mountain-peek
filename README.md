@@ -3,6 +3,7 @@
 This is a color palette inspired by the famous Nord one
 
 # Colors
+## Dark
 suitable for nearly anything.
 | **Color** | **Hex value** | **Colors Name** | **Preview** |
 | ----- | --------- | ------------ | ------- |
@@ -15,6 +16,27 @@ suitable for nearly anything.
 | Cyan | #5f9f9e | Breaker Bay | ![Breaker Bay](https://via.placeholder.com/24/5f9f9e/000000?text=+) |
 | White | #b4c0d4 | Casper | ![Casper](https://via.placeholder.com/24/b4c0d4/000000?text=+) |
 
+## Light
+
+suitable for nearly anything.
+| **Color** | **Hex value** | **Colors Name** | **Preview** |
+| ----- | --------- | ------------ | ------- |
+| Black | #4b5365 | River Bed | ![River Bed](https://via.placeholder.com/24/4b5365/000000?text=+) |
+| Red | #c0636c | Contessa | ![Contessa](https://via.placeholder.com/24/c0636c/000000?text=+) |
+| Green | #90b075 | Olivine | ![Olivine](https://via.placeholder.com/24/90b075/000000?text=+) |
+| Yellow | #e6bd6b | Equator | ![Equator](https://via.placeholder.com/24/e6bd6b/000000?text=+) |
+| Blue | #83a2c2 | Nepal | ![Nepal](https://via.placeholder.com/24/83a2c2/000000?text=+) |
+| Magenta | #cdb3c7 | Lily | ![Lily](https://via.placeholder.com/24/cdb3c7/000000?text=+) |
+| Cyan | #b5d3d2 | Jet Stream | ![Jet Stream](https://via.placeholder.com/24/b5d3d2/000000?text=+) |
+| White | #dde0e6 | Mishka | ![Mishka](https://via.placeholder.com/24/dde0e6/000000?text=+) |
+
 # Preview
 
-![preview](preview/preview.png)
+## Dark
+
+![preview](preview/dark.png)
+
+
+## Light
+
+![preview](preview/light.png)
