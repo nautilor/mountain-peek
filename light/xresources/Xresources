@@ -1,7 +1,7 @@
 ! special
-*.foreground:   #4b5365
+*.foreground:   #232730
 *.background:   #dde0e6
-*.cursorColor:  #4b5365
+*.cursorColor:  #232730
 
 ! black
 *.color0:       #4b5365
@@ -32,5 +32,5 @@
 *.color14:      #b5d3d2
 
 ! white
-*.color7:       #dde0e6
-*.color15:      #dde0e6
+*.color7:       #d6deed
+*.color15:      #d6deed

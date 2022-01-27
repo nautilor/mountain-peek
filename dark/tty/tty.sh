@@ -1,7 +1,7 @@
 #!/bin/sh
 if [ "$TERM" = "linux" ]; then
   /bin/echo -e "
-  \e]P0101216
+  \e]P0232730
   \e]P1973d46
   \e]P27ca25c
   \e]P3e0ae4a
@@ -9,7 +9,7 @@ if [ "$TERM" = "linux" ]; then
   \e]P594628a
   \e]P65f9f9e
   \e]P7b4c0d4
-  \e]P81b1e25
+  \e]P8232730
   \e]P9973d46
   \e]PA7ca25c
   \e]PBe0ae4a

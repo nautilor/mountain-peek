@@ -16,10 +16,10 @@ Bold=true
 # --- standard colors ---
 
 [Color0]
-Color=16,18,22
+Color=35,39,48
 
 [Color0Intense]
-Color=27,30,37
+Color=35,39,48
 
 [Color1]
 Color=151,61,70
