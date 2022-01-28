@@ -5,7 +5,7 @@
 This is a color palette inspired by the famous Nord one
 
 # Colors
-## Dark
+## Night (Dark Variant)
 suitable for nearly anything.
 | **Color** | **Hex value** | **Colors Name** | **Preview** |
 | ----- | --------- | ------------ | ------- |
@@ -44,9 +44,32 @@ suitable for nearly anything.
 | ----- | --------- | ------------ | ------- |
 | Orange| #d39924 | Nugget | ![Nugget](https://via.placeholder.com/24/d39924/000000?text=+) |
 
+### Variants
+these colors needs to be refined but here's some light and dark variations of the one used for the original colorscheme
+| **Color** | **Hex value** | **Colors Name** | **Preview** |
+| ----- | --------- | ------------ | ------- |
+| D RED | #742f37 | --- | ![---](https://via.placeholder.com/24/742f37/000000?text=+) |
+| RED | #973D46 | --- | ![Shark](https://via.placeholder.com/24/973D46/000000?text=+) |
+| L RED | #b8515b | --- | ![---](https://via.placeholder.com/24/b8515b/000000?text=+) |
+| D GREEN | #638349 | --- | ![---](https://via.placeholder.com/24/638349/000000?text=+) |
+| GREEN | #7ca25c | --- | ![Shark](https://via.placeholder.com/24/7ca25c/000000?text=+) |
+| L GREEN | #96b67c | --- | ![---](https://via.placeholder.com/24/96b67c/000000?text=+) |
+| D YELLOW | #d19723 | --- | ![---](https://via.placeholder.com/24/d19723/000000?text=+) |
+| YELLOW | #e0ae4a | --- | ![Shark](https://via.placeholder.com/24/e0ae4a/000000?text=+) |
+| L YELLOW | #e7c073 | --- | ![---](https://via.placeholder.com/24/e7c073/000000?text=+) |
+| D BLUE | #406182 | --- | ![---](https://via.placeholder.com/24/406182/000000?text=+) |
+| BLUE | #517ba5 | --- | ![Shark](https://via.placeholder.com/24/517ba5/000000?text=+) |
+| L BLUE | #6f94b8 | --- | ![---](https://via.placeholder.com/24/6f94b8/000000?text=+) |
+| D MAGENTA | #744e6d | --- | ![---](https://via.placeholder.com/24/744e6d/000000?text=+) |
+| MAGENTA | #94628a	 | --- | ![---](https://via.placeholder.com/24/94628a/000000?text=+) |
+| L MAGENTA | #a97ea1 | --- | ![---](https://via.placeholder.com/24/a97ea1/000000?text=+) |
+| D MAGENTA | #4d807f | --- | ![---](https://via.placeholder.com/24/4d807f/000000?text=+) |
+| MAGENTA | #5f9f9e	 | --- | ![---](https://via.placeholder.com/24/5f9f9e/000000?text=+) |
+| L MAGENTA | #80b3b2 | --- | ![---](https://via.placeholder.com/24/80b3b2/000000?text=+) |
 
 
-## Light
+
+## Snow (Light Variant)
 
 suitable for nearly anything.
 | **Color** | **Hex value** | **Colors Name** | **Preview** |
@@ -63,7 +86,7 @@ suitable for nearly anything.
 | White | #d6deed | Periwinkle Gray | ![Periwinkle Gray](https://via.placeholder.com/24/d6deed/000000?text=+) |
 # Preview
 
-## Dark
+## Night
 
 ![preview](preview/dark.png)
 
