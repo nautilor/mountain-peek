@@ -1,4 +1,4 @@
-# Mountain
+# Mountain Peek
 
 ![logo](logo/Mountain.png)
 
