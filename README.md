@@ -84,6 +84,33 @@ suitable for nearly anything.
 | Magenta | #cdb3c7 | Lily | ![Lily](https://via.placeholder.com/24/cdb3c7/000000?text=+) |
 | Cyan | #b5d3d2 | Jet Stream | ![Jet Stream](https://via.placeholder.com/24/b5d3d2/000000?text=+) |
 | White | #d6deed | Periwinkle Gray | ![Periwinkle Gray](https://via.placeholder.com/24/d6deed/000000?text=+) |
+
+
+
+### Variants
+these colors needs to be refined but here's some light and dark variations of the one used for the original colorscheme
+| **Color** | **Hex value** | **Colors Name** | **Preview** |
+| ----- | --------- | ------------ | ------- |
+| Dark Red | #aa4650 | --- | ![---](https://via.placeholder.com/24/aa4650/000000?text=+) |
+| Red | #c0636c | --- | ![Shark](https://via.placeholder.com/24/c0636c/000000?text=+) |
+| Light Red | #ce888f | --- | ![---](https://via.placeholder.com/24/ce888f/000000?text=+) |
+| Dark Green | #759857 | --- | ![---](https://via.placeholder.com/24/759857/000000?text=+) |
+| Green | #90b075 | --- | ![Shark](https://via.placeholder.com/24/90b075/000000?text=+) |
+| Light Green | #a9c294 | --- | ![---](https://via.placeholder.com/24/a9c294/000000?text=+) |
+| Dark Yellow | #dea93f | --- | ![---](https://via.placeholder.com/24/dea93f/000000?text=+) |
+| Yellow | #e6bd6b | --- | ![Shark](https://via.placeholder.com/24/e6bd6b/000000?text=+) |
+| Light Yellow | #edd096 | --- | ![---](https://via.placeholder.com/24/edd096/000000?text=+) |
+| Dark Blue | #628bb2 | --- | ![---](https://via.placeholder.com/24/628bb2/000000?text=+) |
+| Blue | #83a2c2 | --- | ![Shark](https://via.placeholder.com/24/83a2c2/000000?text=+) |
+| Light Blue | #a6bdd3 | --- | ![---](https://via.placeholder.com/24/a6bdd3/000000?text=+) |
+| Dark Magenta | #b893af | --- | ![---](https://via.placeholder.com/24/b893af/000000?text=+) |
+| Magenta | #cdb3c7	 | --- | ![---](https://via.placeholder.com/24/cdb3c7/000000?text=+) |
+| Light Magenta | #e1d1dd | --- | ![---](https://via.placeholder.com/24/e1d1dd/000000?text=+) |
+| Dark Cyan | #97bfbf | --- | ![---](https://via.placeholder.com/24/97bfbf/000000?text=+) |
+| Cyan | #b5d3d2	 | --- | ![---](https://via.placeholder.com/24/b5d3d2/000000?text=+) |
+| Light Cyan | #d6e6e6 | --- | ![---](https://via.placeholder.com/24/d6e6e6/000000?text=+) |
+
+
 # Preview
 
 ## Night
