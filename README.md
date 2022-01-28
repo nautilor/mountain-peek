@@ -91,6 +91,6 @@ suitable for nearly anything.
 ![preview](preview/dark.png)
 
 
-## Light
+## Snow
 
 ![preview](preview/light.png)
