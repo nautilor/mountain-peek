@@ -33,7 +33,7 @@ suitable for nearly anything.
 ### Light Shades
 | **Color** | **Hex value** | **Colors Name** | **Preview** |
 | ----- | --------- | ------------ | ------- |
-| Ligth 1 | #83a2c2 | Nepal | ![Nepal](https://via.placeholder.com/24/83a2c2/000000?text=+) |
+| Light 1 | #83a2c2 | Nepal | ![Nepal](https://via.placeholder.com/24/83a2c2/000000?text=+) |
 | Light 2 | #8fa1bf | Nepal Variant | ![Nepal Variant](https://via.placeholder.com/24/8fa1bf/000000?text=+) |
 | Light 3 | #a7b5cd | Casper Variant | ![Casper Variant](https://via.placeholder.com/24/a7b5cd/000000?text=+) |
 | Light 4 | #b4c0d4 | Casper | ![Casper](https://via.placeholder.com/24/b4c0d4/000000?text=+) |
@@ -48,24 +48,24 @@ suitable for nearly anything.
 these colors needs to be refined but here's some light and dark variations of the one used for the original colorscheme
 | **Color** | **Hex value** | **Colors Name** | **Preview** |
 | ----- | --------- | ------------ | ------- |
-| D RED | #742f37 | --- | ![---](https://via.placeholder.com/24/742f37/000000?text=+) |
-| RED | #973D46 | --- | ![Shark](https://via.placeholder.com/24/973D46/000000?text=+) |
-| L RED | #b8515b | --- | ![---](https://via.placeholder.com/24/b8515b/000000?text=+) |
-| D GREEN | #638349 | --- | ![---](https://via.placeholder.com/24/638349/000000?text=+) |
-| GREEN | #7ca25c | --- | ![Shark](https://via.placeholder.com/24/7ca25c/000000?text=+) |
-| L GREEN | #96b67c | --- | ![---](https://via.placeholder.com/24/96b67c/000000?text=+) |
-| D YELLOW | #d19723 | --- | ![---](https://via.placeholder.com/24/d19723/000000?text=+) |
-| YELLOW | #e0ae4a | --- | ![Shark](https://via.placeholder.com/24/e0ae4a/000000?text=+) |
-| L YELLOW | #e7c073 | --- | ![---](https://via.placeholder.com/24/e7c073/000000?text=+) |
-| D BLUE | #406182 | --- | ![---](https://via.placeholder.com/24/406182/000000?text=+) |
-| BLUE | #517ba5 | --- | ![Shark](https://via.placeholder.com/24/517ba5/000000?text=+) |
-| L BLUE | #6f94b8 | --- | ![---](https://via.placeholder.com/24/6f94b8/000000?text=+) |
-| D MAGENTA | #744e6d | --- | ![---](https://via.placeholder.com/24/744e6d/000000?text=+) |
-| MAGENTA | #94628a	 | --- | ![---](https://via.placeholder.com/24/94628a/000000?text=+) |
-| L MAGENTA | #a97ea1 | --- | ![---](https://via.placeholder.com/24/a97ea1/000000?text=+) |
-| D MAGENTA | #4d807f | --- | ![---](https://via.placeholder.com/24/4d807f/000000?text=+) |
-| MAGENTA | #5f9f9e	 | --- | ![---](https://via.placeholder.com/24/5f9f9e/000000?text=+) |
-| L MAGENTA | #80b3b2 | --- | ![---](https://via.placeholder.com/24/80b3b2/000000?text=+) |
+| Dark Red | #742f37 | --- | ![---](https://via.placeholder.com/24/742f37/000000?text=+) |
+| Red | #973D46 | --- | ![Shark](https://via.placeholder.com/24/973D46/000000?text=+) |
+| Light Red | #b8515b | --- | ![---](https://via.placeholder.com/24/b8515b/000000?text=+) |
+| Dark Green | #638349 | --- | ![---](https://via.placeholder.com/24/638349/000000?text=+) |
+| Green | #7ca25c | --- | ![Shark](https://via.placeholder.com/24/7ca25c/000000?text=+) |
+| Light Green | #96b67c | --- | ![---](https://via.placeholder.com/24/96b67c/000000?text=+) |
+| Dark Yellow | #d19723 | --- | ![---](https://via.placeholder.com/24/d19723/000000?text=+) |
+| Yellow | #e0ae4a | --- | ![Shark](https://via.placeholder.com/24/e0ae4a/000000?text=+) |
+| Light Yellow | #e7c073 | --- | ![---](https://via.placeholder.com/24/e7c073/000000?text=+) |
+| Dark Blue | #406182 | --- | ![---](https://via.placeholder.com/24/406182/000000?text=+) |
+| Blue | #517ba5 | --- | ![Shark](https://via.placeholder.com/24/517ba5/000000?text=+) |
+| Light Blue | #6f94b8 | --- | ![---](https://via.placeholder.com/24/6f94b8/000000?text=+) |
+| Dark Magenta | #744e6d | --- | ![---](https://via.placeholder.com/24/744e6d/000000?text=+) |
+| Magenta | #94628a	 | --- | ![---](https://via.placeholder.com/24/94628a/000000?text=+) |
+| Light Magenta | #a97ea1 | --- | ![---](https://via.placeholder.com/24/a97ea1/000000?text=+) |
+| Dark Cyan | #4d807f | --- | ![---](https://via.placeholder.com/24/4d807f/000000?text=+) |
+| Cyan | #5f9f9e	 | --- | ![---](https://via.placeholder.com/24/5f9f9e/000000?text=+) |
+| Light Cyan | #80b3b2 | --- | ![---](https://via.placeholder.com/24/80b3b2/000000?text=+) |
 
 
 
