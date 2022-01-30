@@ -9,7 +9,7 @@ This is a color palette inspired by the famous Nord one
 
 ## Telegram Bot
 
-I have created a Telegram Bot to convert any image to use this colorscheme (Night) and you can find it [here](t.me/ImageGoMountainPeekBot)
+I have created a Telegram Bot to convert any image to use this colorscheme (Night) and you can find it [here](https://t.me/ImageGoMountainPeekBot)
 
 Just send him an uncompressed photo to convert
 
